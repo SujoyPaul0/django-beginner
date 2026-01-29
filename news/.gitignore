@@ -1,3 +1,7 @@
 .venv/
 __pycache__/
 db.sqlite3
+.env
+static/css/.keep
+static/js/.keep
+static/img/.keep
